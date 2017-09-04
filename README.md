@@ -1,8 +1,8 @@
-# DFA-Calculator
+# A-Number-of-States-in-DFA-Calculator
 Calculates a pattern of numbers from the congruence mod x in base y as well as a number of states in DFA.
 Based on DFA calculation theory from professor William Gasarch's class.
 
-example
+<h2>Example</h2>
 Mod 8 in base 10
 
 1,2,4,0
@@ -15,7 +15,7 @@ Mod 8 in base 10
 .
 .
 [1, 2, 4, 0] pattern
-# pattern * mode = 4 * 8 = 32 = number of states in DFA
+#pattern * mode = 4 * 8 = 32 = number of states in DFA
 
 <h2>How to Test </h2>
 
@@ -24,6 +24,6 @@ congruence mod x in base y then
 filename y x 
 
 [ pattern numbers]
-# number of states in DFA
+#number of states in DFA
 
 
