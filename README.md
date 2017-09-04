@@ -1,6 +1,5 @@
 # A-Number-of-States-in-DFA-Calculator
-Calculates a pattern of numbers from the congruence mod x in base y as well as a number of states in DFA.
-Based on DFA calculation theory from professor William Gasarch's class.
+Calculates a pattern of numbers from the congruence mod x in base y as well as a number of states in DFA. Based on the DFA calculation theory from professor William Gasarch's theory of computation class. 
 
 <h2>Example</h2>
 Mod 8 in base 10
